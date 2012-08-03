@@ -1,0 +1,14 @@
+
+#content {
+	padding: 0;
+	margin: 0;
+}
+
+#flexDiv {
+	background-color: #f46832;
+	position: relative;
+	width: 100px;
+	height: 100px;
+	top: 2px;
+	left: 2px;
+}
